@@ -1,1 +1,2 @@
 # ticky
+AUTHOR - MUHAMMAD SHARJEEL
